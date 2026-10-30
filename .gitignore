@@ -1,0 +1,28 @@
+# Quartus generated output (always rebuild from source)
+quartus/db/
+quartus/incremental_db/
+quartus/output_files/
+quartus/simulation/
+quartus/*.rpt
+quartus/*.summary
+quartus/*.smsg
+quartus/*.qws
+quartus/*.sof
+quartus/*.pof
+# Simulation output
+sim/work/
+sim/transcript
+sim/vsim.wlf
+build/
+# Optional image-converter outputs not used by the Quartus project
+quartus/images2.hex
+quartus/images24.hex
+quartus/images_[rgb].hex
+quartus/IMAGES.BIN
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+
+# Testbench dump files
+*_cipher.hex
